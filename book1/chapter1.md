@@ -20,3 +20,18 @@ Ubuntu Make開發工具更新
     Dartland editor
     Stencyl game development platform
     Numerous usability improvements and accessibility
+## 本地登入和操作
+### 圖形介面登入
+### 文字介面登入
+Ctrl+Alt+F1 進入終端機畫面
+Ctrl+Alt+F2~F6 切換其他終端機畫面
+Ctrl+Alt+F7 回到圖形化介面
+## 遠端登入和操作
+### 終端機介面連線操作
+早期用telnet但因為沒有加密的關係後來改用SSH
+可使用Putty連SSH
+<!-- SSH連線需要有ip, port號連上對方電腦後需要登入帳號，如是較舊的軟體須注意編碼問題 -->
+### FTP連線操作
+架好FTP後即可連線
+### Web介面連線操作
+安裝webmin操作
